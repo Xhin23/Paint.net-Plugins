@@ -13,3 +13,7 @@ https://forums.getpaint.net/topic/115070-polar-kaleidoscope/
 **Rectangular Inversion**
 
 https://forums.getpaint.net/topic/115096-rectangular-inversion/
+
+**Advanced Kaleidoscope**
+
+https://forums.getpaint.net/topic/115103-advanced-kaleidoscope/
