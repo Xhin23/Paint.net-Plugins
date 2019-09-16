@@ -17,3 +17,11 @@ https://forums.getpaint.net/topic/115096-rectangular-inversion/
 **Advanced Kaleidoscope**
 
 https://forums.getpaint.net/topic/115103-advanced-kaleidoscope/
+
+**Cubic Transformation**
+
+https://forums.getpaint.net/topic/115122-cubic-transformation/
+
+**Polar Reflection**
+
+https://forums.getpaint.net/topic/115129-polar-reflection/
