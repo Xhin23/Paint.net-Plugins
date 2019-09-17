@@ -25,3 +25,7 @@ https://forums.getpaint.net/topic/115122-cubic-transformation/
 **Polar Reflection**
 
 https://forums.getpaint.net/topic/115129-polar-reflection/
+
+**Trace**
+
+https://forums.getpaint.net/topic/115132-artistic-trace/
