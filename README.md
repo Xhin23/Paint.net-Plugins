@@ -29,3 +29,7 @@ https://forums.getpaint.net/topic/115129-polar-reflection/
 **Trace**
 
 https://forums.getpaint.net/topic/115132-artistic-trace/
+
+**Glass Blur**
+
+https://forums.getpaint.net/topic/115207-glass-blur/
